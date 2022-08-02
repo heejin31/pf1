@@ -58,6 +58,7 @@
   }
   #community .inner div article:not(.faq){
   width: calc(100%);
+  padding: 0;
   }
   
 }
